@@ -35,3 +35,4 @@ Live and actively maintained.
 **Anass**  
 Full-Stack Web Developer  
 Portfolio: (add your portfolio link)
+_Last updated: February 2026_
